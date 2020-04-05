@@ -1,13 +1,7 @@
 #welcome{
   font-size:30px;
 }
-#div1{
-  text-align:center;
-}
-#div2{
-  text-align:center;
-}
-#div3{
+.content{
   text-align:center;
 }
 .img1{
